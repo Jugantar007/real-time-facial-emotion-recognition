@@ -1,0 +1,1 @@
+print("FER Inference Script")
